@@ -1,32 +1,15 @@
-# VIXLL — Digital Solutions
+# VIXLL Portfolio
 
-Static one-page portfolio for VIXLL. It can be hosted directly on GitHub Pages or any static host.
+Static GitHub Pages portfolio for VIXLL.
 
-## Files
+## Upload
+Upload the contents of this folder to the root of your GitHub Pages repository.
 
-- `index.html` — page structure and portfolio content
-- `styles.css` — styling and responsive layout
-- `script.js` — filters, modal previews, mobile navigation, and animations
-- `vixll-mark.png` — VIXLL brand mark used in the navigation
-- `vixll-logo.png` — larger VIXLL logo asset
-- `favicon.png` / `favicon.ico` — browser and search favicon assets
-- `demos/` — additional VIXLL demonstration pages
+## Portfolio
+The portfolio contains the live Manjunath Clinic project plus VIXLL demo experiences. Removed pet project URLs are no longer referenced.
 
-## GitHub Pages
-
-1. Create a GitHub repository.
-2. Upload every file and folder from this bundle into the repository root.
-3. In **Settings → Pages**, choose **Deploy from a branch**.
-4. Select the `main` branch and `/ (root)`.
-5. Save. GitHub will publish the site.
+## Contact
+The enquiry form uses vixll.online@gmail.com.
 
 ## Custom domain
-
-In **Settings → Pages**, add your custom domain. Then set the DNS records at your domain provider to the values GitHub shows for your Pages site.
-
-## Contact details
-
-Email: vixllsupport@gmail.com
-Phone: +91 72044366614
-
-The contact form opens a prefilled email using `mailto:`; no backend is required.
+Configure the custom domain in GitHub Pages and point DNS to GitHub Pages as described in GitHub's documentation.
